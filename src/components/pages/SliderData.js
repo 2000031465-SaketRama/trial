@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+      image:
+        'https://media.istockphoto.com/photos/colonial-style-house-picture-id1284097677?b=1&k=20&m=1284097677&s=170667a&w=0&h=1A7BkHG5OU4WCN7m22OOhvVmU21q4UsYVJPrS1kgcKI='
+    },
+    {
+      image:
+        'https://qph.fs.quoracdn.net/main-qimg-d0f01c01cdfc770be9ac9842dc8be05b-c'
+    },
+    {
+      image:
+        'https://i.pinimg.com/originals/3a/6b/6e/3a6b6eeaf4054bef340bde254fe1cf6d.jpg'
+    },
+    {
+      image:
+        'https://www.squareyards.com/blog/wp-content/uploads/2020/08/Duplex-House.jpg'
+    },
+    {
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/e/e0/Over_and_under_house_type_of_duplex_house..jpg'
+    }
+  ];
